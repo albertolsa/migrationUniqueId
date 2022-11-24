@@ -5,7 +5,7 @@ info:
   description: API describing ChangeUniqueId API
   contact:
     name: GVP OSSBSS team
-    email: javier.espinosaruiz@telefonica.com
+    email: alberto.lossantos@telefonica.com
   
 host: babom.gvp.telefonica.com:7443
 basePath: /ossbss/v1
